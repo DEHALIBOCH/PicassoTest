@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PicassoTest</string>
+    <string name="image_description">Image</string>
+    <string name="likes">%1$d likes.</string>
 </resources>
